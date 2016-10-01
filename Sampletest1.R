@@ -1,0 +1,6 @@
+setwd("E:/R/Rdata")
+getwd()
+library(ggplot2)
+summary("autoload")
+library(ISLR)
+summary(IS)
