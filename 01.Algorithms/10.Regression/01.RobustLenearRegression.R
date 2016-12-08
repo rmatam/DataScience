@@ -27,4 +27,5 @@ DMwR::regr.eval(stackloss$stack.loss, lm_mod$fitted.values)
 DMwR::regr.eval(stackloss$stack.loss, rlm_mod$fitted.values)
 #>       mae       mse      rmse      mape 
 #> 2.1952232 9.0735283 3.0122298 0.1317191
-
+#
+#
